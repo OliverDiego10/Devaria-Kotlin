@@ -1,4 +1,4 @@
-import classes.Produto
+import Classes.Produto
 
 /*
     -> Escrever um programa - OK
